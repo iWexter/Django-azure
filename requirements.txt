@@ -1,0 +1,5 @@
+django
+setuptools
+pyodbc>3.0
+django-pyodbc-azure
+waitress
